@@ -10,10 +10,6 @@ function App() {
       <button 
       onClick={ () => {
         setCount(prev => prev + 1)
-        setCount(prev => prev + 1)
-        setCount(prev => prev + 1)
-        setCount(prev => prev + 1)
-        setCount(prev => prev + 1)
       } }
       >
         증가

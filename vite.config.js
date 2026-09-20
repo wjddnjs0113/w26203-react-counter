@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/w26w03-react-counter/',
+  base: '/w26203-react-counter/',
 })

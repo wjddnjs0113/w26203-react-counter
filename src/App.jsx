@@ -6,7 +6,7 @@ const DIFFICULTY = {
   MEDIUM: { id: 'MEDIUM', name: '중급', rows: 12, cols: 12, mines: 20 },
   HARD: { id: 'HARD', name: '상급', rows: 16, cols: 16, mines: 40 },
   EXTREME: { id: 'EXTREME', name: '극악', rows: 20, cols: 20, mines: 60 },
-  HARDCORE: { id: 'HARDCORE', name: '하드코어', rows: 24, cols: 24, mines: 85 },
+  HARDCORE: { id: 'HARDCORE', name: '하드코어', rows: 24, cols: 24, mines: 105 },
 };
 
 const NUMBER_COLORS = {
